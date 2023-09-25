@@ -1,0 +1,41 @@
+	body{
+		background-color: gray;
+		background-image: url("bg1.jpg");
+		background-repeat: no-repeat;
+		background-size: 110%;
+		}
+
+	.image{
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		margin-bottom: 0;
+		width: 500px; 
+		height: 350px 
+		}
+	h1{
+		text-align: Center;
+		margin-top: 0;
+		margin-bottom: 10px;
+		font-size: 1.5cm;
+		}
+
+	h2{
+		text-align: Center;
+		margin-bottom: 0cm;
+		font-size: 1.5cm;
+		}
+	.a{
+		text-align: Center;
+		margin-top: 2mm;
+		margin-bottom: 2mm;
+		font-size: 6mm
+		}
+	.b{
+		text-align: Center;
+		margin-top: 2mm;
+		margin-bottom: 2mm;
+		font-size: 5mm;
+		font-style: italic;
+		color: red
+		}
